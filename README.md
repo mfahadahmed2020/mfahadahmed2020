@@ -1,4 +1,3 @@
-https://github.com/AreebaZafarChohan/AreebaZafarChohan?tab=readme-ov-file#-github-status
 
 - 👋 Hi, I’m @mfahadahmed2020
 - 👀 I’m interested in ...
