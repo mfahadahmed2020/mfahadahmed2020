@@ -59,6 +59,7 @@ Networking
 
 🧠 Diving Deep InTo Agentic & Robotics AI System Learning
 🎓 AS A Student At Governor House Sindh IT Marque GenAI, Web3 & Metaverse Initiative
+
 🔗 Portfolio: M Fahad Ahmed Portfolio
 🚀 Crafting Powerful Semi-Stack & AI-Driven Applications Using Next.js 15, Tailwind CSS, FastAPI, Streamlit, CrewAI & more
 🤝 Passionate About Building Intelligent, Responsive, Web Applications, Or AI Agents
