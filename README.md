@@ -71,8 +71,14 @@ TypeScript JavaScript Python HTML5 CSS3 Next JS TailwindCSS BootStrap NodeJS Fas
 
 📫 Let's Connect!
 
-LinkedIn    FaceBook    X    Gmail        YouTube
+LinkedIn            FaceBook        Xx            Gmail            YouTube
 
-https://www.linkedin.com/in/m-ahmed-111b3b203/    https://www.facebook.com/mfahad.ahmed.5?mibextid=ZbWKwL    https://x.com/MFahadAhmed4?t=6ek1JzhBpRtJTaBsGaoi4g&s=08
+https://www.linkedin.com/in/m-ahmed-111b3b203/
 
-    https://www.mfahadahmed2020@gmail.com                  https://youtube.com/@Walmartfashionaccessories?si=lLb7DFzSAQmEkPck
+https://www.facebook.com/mfahad.ahmed.5?mibextid=ZbWKwL
+
+https://x.com/MFahadAhmed4?t=6ek1JzhBpRtJTaBsGaoi4g&s=08
+
+https://www.mfahadahmed2020@gmail.com
+
+https://youtube.com/@Walmartfashionaccessories?si=lLb7DFzSAQmEkPck
