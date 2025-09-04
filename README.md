@@ -95,10 +95,8 @@ https://www.linkedin.com/in/m-ahmed-111b3b203/
 
 https://www.facebook.com/mfahad.ahmed.5?mibextid=ZbWKwL
 
-https://x.com/MFahadAhmed4?t=6ek1JzhBpRtJTaBsGaoi4g&s=08
+https://x.com/MFahadAhmed4?t=6ek1JzhBpRtJTaBsGaoi4g&s=08<img width="35" height="20" alt="image" src="https://github.com/user-attachments/assets/bdeb3a3c-0b9e-4418-aaee-88539ba81692" />
 
 https://www.mfahadahmed2020@gmail.com
 
 https://youtube.com/@Walmartfashionaccessories?si=lLb7DFzSAQmEkPck
-
-<img width="35" height="20" alt="image" src="https://github.com/user-attachments/assets/bdeb3a3c-0b9e-4418-aaee-88539ba81692" />
