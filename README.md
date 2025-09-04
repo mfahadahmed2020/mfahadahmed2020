@@ -91,12 +91,12 @@ Networking
 
 LinkedIn            FaceBook        Xx            Gmail            YouTube
 
-https://www.linkedin.com/in/m-ahmed-111b3b203/
+<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/afc249fd-10a8-4807-9669-6aefaa5e72cf" />https://www.linkedin.com/in/m-ahmed-111b3b203/
 
 https://www.facebook.com/mfahad.ahmed.5?mibextid=ZbWKwL
 
-https://x.com/MFahadAhmed4?t=6ek1JzhBpRtJTaBsGaoi4g&s=08<img width="35" height="20" alt="image" src="https://github.com/user-attachments/assets/bdeb3a3c-0b9e-4418-aaee-88539ba81692" />
+<img width="35" height="20" alt="image" src="https://github.com/user-attachments/assets/bdeb3a3c-0b9e-4418-aaee-88539ba81692" />https://x.com/MFahadAhmed4?t=6ek1JzhBpRtJTaBsGaoi4g&s=08
 
-https://www.mfahadahmed2020@gmail.com
+<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/322de864-dcf2-42cd-a1b5-c435b70d1623" />https://www.mfahadahmed2020@gmail.com
 
 https://youtube.com/@Walmartfashionaccessories?si=lLb7DFzSAQmEkPck
