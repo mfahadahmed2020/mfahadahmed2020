@@ -75,10 +75,9 @@ Networking
 
 📊 GitHub Status:
 
-<img width="450" height="195" alt="image" src="https://github.com/mfahadahmed2020/assets
 
+<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/acf02302-afdb-4f70-986f-67ce4ee627e7" />
 
-<img width="495" height="195" alt="image" src="https://github.com/mfahadahmed2020/assets
 
 
 
