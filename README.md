@@ -58,15 +58,21 @@ Networking
 💫 About Me:
 
 🧠 Diving Deep InTo Agentic & Robotics AI System Learning
+
 🎓 AS A Student At Governor House Sindh IT Marque GenAI, Web3 & Metaverse Initiative
 
 🔗 Portfolio: M Fahad Ahmed Portfolio
+
 🚀 Crafting Powerful Semi-Stack & AI-Driven Applications Using Next.js 15, Tailwind CSS, FastAPI, Streamlit, CrewAI & more
+
 🤝 Passionate About Building Intelligent, Responsive, Web Applications, Or AI Agents
+
 💬 Let’s Talk About Anything From Modern Web/App Development To GenAI, SDKs, OpenAI Agents & Metaverse Innovations
 
 💻 Tech Stack:
-TypeScript JavaScript Python HTML5 CSS3 Next JS TailwindCSS BootStrap NodeJS FastAPI Streamlit Pydantic MongoDB OpenAI REST API Gemini Jupyter Notebook Chainlit Sanity CMS Stripe Figma
+    TypeScript JavaScript Python HTML5 CSS3 Next JS TailwindCSS BootStrap NodeJS FastAPI Streamlit Pydantic MongoDB
+    OpenAI REST API Gemini Jupyter Notebook Chainlit Sanity CMS Stripe  Figma
+
 📊 GitHub Status:
 
 
