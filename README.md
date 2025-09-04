@@ -75,7 +75,11 @@ Networking
 
 📊 GitHub Status:
 
+<img width="450" height="195" alt="image" src="https://github.com/user-attachments/assets/22ec6b19-3797-497c-bbee-1b3d12018098" />
+
+
 <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/8dcf4dcb-d295-4f22-a269-e3599466d8fa" />
+
 
 
 📫 Let's Connect!
