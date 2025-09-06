@@ -77,19 +77,16 @@ Networking
 
 
 
-<img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/0247db80-0274-46fd-81de-c4fd09053454" />
 
 
 
-
-<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/acf02302-afdb-4f70-986f-67ce4ee627e7" />
 
 
 
 
 📫 Let's Connect!
 
-LinkedIn            FaceBook        Xx            Gmail            YouTube
+LinkedIn                                FaceBook                                Xx                                Gmail                            YouTube
 
 <img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/afc249fd-10a8-4807-9669-6aefaa5e72cf" />https://www.linkedin.com/in/m-ahmed-111b3b203/
 
