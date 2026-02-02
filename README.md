@@ -50,6 +50,12 @@ Networking
 
     📫 How to reach me ...
 
+   Python Structured Red Carpet Model Designe By
+
+       Hugging_Face_AI_Model_Image_Generation
+
+       Hugging_Face_From_Red_Carpet_Model
+
     😄 Pronouns: ...
 
     ⚡ Fun fact: ...
