@@ -81,7 +81,89 @@ Networking
 
 📊 GitHub Status:
 
+AI Engineer | Agentic AI & Automation Specialist
 
+Location: Karachi, Pakistan | Email: [mfahadahmed2020/2012@gmail.com] | Phone: [03363808196]
+
+LinkedIn: [https://www.linkedin.com/in/m-fahad-ahmed-111b3b203/] | GitHub: [https://github.com/mfahadahmed2020/mfahadahmed2020/edit/main/README.md]
+PROFESSIONAL SUMMARY
+
+Driven and innovative AI Engineer specializing in Agentic AI, Prompt & Context Engineering, and multi-agent system design. Hands-on experience gained through intensive programs like the Agent Factory Crash Course and active participation in competitive AI Hackathons. Expertise in building production-ready AI applications using the OpenAI Agents SDK, Model Context Protocol (MCP), FastAPI, Docker, and modern TypeScript/Python stacks. Proven track record of leveraging advanced context architectures to engineer high-precision AI solutions.
+TECHNICAL SKILLS
+
+    AI & Agentic Systems: Agentic AI Frameworks, OpenAI Agents SDK, Model Context Protocol (MCP), Autonomous Multi-Agent Orchestration, Agent Architecture Design.
+
+    Prompt & Context Engineering: Context Optimization, System Prompt Design, Few-Shot / Chain-of-Thought Prompting, RAG Systems, Memory & Context Window Management.
+
+    Backend & DevOps: Python (FastAPI, Streamlit), Modern TypeScript, JavaScript, Docker Containerization, Microservices, Git/GitHub.
+
+    Core Web & Data: HTML5, CSS3, Object-Oriented Programming (OOP), RESTful APIs, PostgREST / Database Management.
+
+AI & AUTOMATION PROJECTS / HACKATHONS
+
+    Hackathon Projects (Hackathon 1 & 2)
+
+        Developed and deployed AI-driven applications under tight time constraints, integrating frontend systems with complex backend agentic logic.
+
+        Applied Prompt & Context Engineering techniques to minimize latency and ensure structured, reliable outputs from Large Language Models (LLMs).
+
+        Containerized services using Docker and established efficient multi-agent workflows.
+
+    Multi-Agent AI Systems & MCP Implementations
+
+        Built custom Agentic AI workflows utilizing the OpenAI Agents SDK and MCP servers for dynamic context retrieval and tool execution.
+
+        Designed interactive dashboards with Streamlit and high-performance APIs via FastAPI.
+
+EDUCATION & SPECIALIZED TRAINING
+
+    Agent Factory Crash Course
+
+        Specialization in building, testing, and deploying autonomous AI agents and multi-agent architectures.
+
+    Governor Sindh Initiative for GenAI, Web3 & Metaverse (GIAIC)
+
+        Focus: Agentic AI, Prompt Engineering, OpenAI Agents SDK, MCP Servers, TypeScript, Python, FastAPI, Docker.
+
+    Secondary School Certificate (SSC)
+
+        Institution: Shadman Academy, Karachi
+
+        SSC - Part I (Class IX): 1997 – 1998
+
+        SSC - Part II (Class X): 1998 – 1999
+
+            Higher Secondary Certificate (HSC)
+
+        Institution: Professional College of Commerce & Economics (PCCE), Karachi
+
+        HSC - Part I: 1999 – 2000
+
+        HSC - Part II: 2000 – 2001
+
+    Certificate of Achievement in Information Technology (Matrox Institute of Information Technology)
+
+        Issued: November 2002
+
+        Modules: MS Office, InPage, Computer Hardware.
+
+    Microsoft Unlimited Potential Curriculum Certificate (CTLC / Mir Khalil-ur-Rahman Foundation)
+
+        Issued: January 2009
+
+        Modules: Computer Fundamentals, Web Design, Database Fundamentals, Digital Media.
+
+CORE COMPETENCIES
+
+    Multi-Agent Systems & Tool Calling
+
+    Advanced Prompt Engineering & Context Management
+
+    AI Hackathon & Rapid Prototyping
+
+    Clean Code & Software Design Patterns
+
+    Technical Problem Solving & Architecture Design
 
 
 
