@@ -81,10 +81,11 @@ Networking
 
 📊 GitHub Status:
 
-AI Engineer | Agentic AI & Automation Specialist
+# AI Engineer | Agentic AI & Automation Specialist
 
-Location: Karachi, Pakistan | Email: [mfahadahmed2020/2012@gmail.com] | Phone: [03363808196]
-
+Location: Karachi, Pakistan | Email: [mfahadahmed2020@gmail.com] | Phone: [03363808196]
+                              Email: [mfahadahmed2012@gmail.com]
+                              
 LinkedIn: [https://www.linkedin.com/in/m-fahad-ahmed-111b3b203/] | GitHub: [https://github.com/mfahadahmed2020/mfahadahmed2020/edit/main/README.md]
 PROFESSIONAL SUMMARY
 
