@@ -1,195 +1,90 @@
-# AI Engineer | Agentic AI & Automation Specialist
+# 🤖 Hi, I'm M. Fahad Ahmed 👋
+### **AI Engineer | Agentic AI & Automation Specialist | Systems & IT Advisor**
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-fahad-ahmed-111b3b203/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mfahadahmed2020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://x.com/MFahadAhmed4">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.facebook.com/mfahad.ahmed.5">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://youtube.com/@Walmartfashionaccessories">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
-    👋 Hi, I’m @mfahadahmed2020
-    👀 I’m interested in ... Computing
-    🌱 I’m currently learning ... OnLine Computing
-    💞️ I’m looking to collaborate on ... Social Media SEO
-    I am a Students ...
-    I am not a Coding Developers, But I Have Worked on the Windows Installation, Configuration, and Windows Programming Development of all Windows Versions from Windows 98 to the latest. I Have Experience in Developing Corrupted Windows and Corrupted Programs Within Windows.
-    Additionally, I Have Worked as an IT Advisor, Specializing in Troubleshooting Technical Issues and System Optimization.
+---
 
-Skills & Expertise
+## 💫 About Me
 
-    Windows Installation & Configuration
-    Corrupt Windows & Software Development
-    IT Advisory & System Optimization
-    Troubleshooting & Technical Support
+Driven and innovative **AI Engineer** specializing in **Agentic AI**, **Prompt & Context Engineering**, and multi-agent system orchestration. I craft intelligent, context-aware, full-stack applications using modern stacks like **Next.js 15, FastAPI, Streamlit, and OpenAI Agents SDK**.
 
-Technologies & Tools
-Windows
-Development
-IT Advisor
-Troubleshooting
-System Optimization
-Networking
-1. Install Each Version on FAT32 File System:
+Beyond AI development, I possess extensive technical experience as an **IT Advisor & Systems Engineer**, specializing in OS installation, configuration, system optimization, and technical troubleshooting across all Windows versions (from Windows 98 to Windows 11).
 
-    Windows 95
-    Windows 97
-    Windows 98
-    Windows 2000
-    Windows Millennium
-    Windows XP
+- 🧠 **Currently Deep-Diving Into:** Agentic AI Frameworks, Autonomous Agents & Multi-Agent Orchestration.
+- 🎓 **Education:** Student at **Governor Sindh Initiative for GenAI, Web3 & Metaverse (GIAIC)**.
+- 🚀 **Projects:** Building high-precision AI applications, custom MCP servers, and full-stack agentic web dashboards.
+- 💬 **Let's Talk About:** GenAI, Agentic SDKs, Prompt Engineering, Systems Architecture & Modern Web Dev.
 
-2. Install Each Version on NTFS File System:
+---
 
-    Windows 2000
+## 💻 Tech Stack & Tools
 
-    Windows Millennium
+**AI & Agentic Frameworks:**  
+`OpenAI Agents SDK` | `Model Context Protocol (MCP)` | `CrewAI` | `Chainlit` | `Hugging Face` | `Prompt Engineering` | `RAG Systems`
 
-    Windows XP
+**Languages & Backend:**  
+`Python` | `TypeScript` | `JavaScript` | `FastAPI` | `Streamlit` | `Node.js` | `Pydantic` | `REST APIs`
 
-    Windows 7
+**Frontend & Design:**  
+`Next.js 15` | `Tailwind CSS` | `Bootstrap` | `HTML5` | `CSS3` | `Figma`
 
-    Windows 8
+**Database, Services & DevOps:**  
+`Docker` | `MongoDB` | `Sanity CMS` | `Stripe Integration` | `Git / GitHub` | `Jupyter Notebook`
 
-    Windows 9
+**Systems & OS Troubleshooting:**  
+`Windows Deployment (FAT32/NTFS)` | `System Optimization` | `IT Advisory` | `Technical Support`
 
-    Windows 10
+---
 
-    Windows 11
+## ⚡ Professional Experience & Projects
 
-    📫 How to reach me ...
+### 🛠️ AI & Agentic Systems (Hackathons & Projects)
+- **Multi-Agent Systems & MCP Servers:** Built custom Agentic workflows leveraging OpenAI Agents SDK and MCP servers for live context execution and tool calling.
+- **AI-Driven Full-Stack Apps:** Designed and integrated complex frontend interfaces (Next.js/Streamlit) with high-performance FastAPI backend services.
+- **Prompt & Context Optimization:** Implemented advanced context window management and structured prompting to ensure minimal latency and reliable LLM responses.
 
-   Python Structured Red Carpet Model Designe By
+### 💻 Systems Advisory & Windows Infrastructure
+- **Legacy & Modern Windows Deployments:** Hands-on experience with installation, configuration, and troubleshooting for FAT32 and NTFS environments across Windows 95, 97, 98, 2000, ME, XP, 7, 8, 10, and 11.
+- **Technical Advisory:** Diagnosed software corruptions, recovered system states, and provided end-to-end hardware/software technical troubleshooting.
 
-       Hugging_Face_AI_Model_Image_Generation
+---
 
-       Hugging_Face_From_Red_Carpet_Model
+## 📚 Education & Certifications
 
-    😄 Pronouns: ...
+- **Governor Sindh Initiative for GenAI, Web3 & Metaverse (GIAIC)** — *Agentic AI, TypeScript, Python, FastAPI, Docker, MCP*
+- **Agent Factory Crash Course** — *Autonomous Agent Building & Multi-Agent Systems*
+- **Higher Secondary Certificate (HSC)** — Professional College of Commerce & Economics (PCCE), Karachi *(1999 – 2001)*
+- **Secondary School Certificate (SSC)** — Shadman Academy, Karachi *(1997 – 1999)*
+- **Microsoft Unlimited Potential Curriculum Certificate** — CTLC / Mir Khalil-ur-Rahman Foundation *(Jan 2009)*
+- **Certificate in Information Technology** — Matrox Institute of Information Technology *(Nov 2002)*
 
-    ⚡ Fun fact: ...
+---
 
+## 📫 Connect with Me
 
-💫 About Me:
+- 📍 **Location:** Karachi, Pakistan  
+- 📧 **Primary Email:** [mfahadahmed2020@gmail.com](mailto:mfahadahmed2020@gmail.com)  
+- 📧 **Secondary Email:** [mfahadahmed2012@gmail.com](mailto:mfahadahmed2012@gmail.com)  
+- 📞 **Phone:** +92 336 3808196  
+- 💼 **LinkedIn:** [M. Fahad Ahmed](https://www.linkedin.com/in/m-fahad-ahmed-111b3b203/)  
+- 🌐 **X (Twitter):** [@MFahadAhmed4](https://x.com/MFahadAhmed4)  
+- 🎥 **YouTube:** [@Walmartfashionaccessories](https://youtube.com/@Walmartfashionaccessories)  
 
-🧠 Diving Deep InTo Agentic & Robotics AI System Learning
-
-🎓 AS A Student At Governor House Sindh IT Marque GenAI, Web3 & Metaverse Initiative
-
-🔗 Portfolio: M Fahad Ahmed Portfolio
-
-🚀 Crafting Powerful Semi-Stack & AI-Driven Applications Using Next.js 15, Tailwind CSS, FastAPI, Streamlit, CrewAI & more
-
-🤝 Passionate About Building Intelligent, Responsive, Web Applications, Or AI Agents
-
-💬 Let’s Talk About Anything From Modern Web/App Development To GenAI, SDKs, OpenAI Agents & Metaverse Innovations
-
-💻 Tech Stack:
-    TypeScript JavaScript Python HTML5 CSS3 Next JS TailwindCSS BootStrap NodeJS FastAPI Streamlit Pydantic MongoDB
-    OpenAI REST API Gemini Jupyter Notebook Chainlit Sanity CMS Stripe  Figma
-
-📊 GitHub Status:
-
-# AI Engineer | Agentic AI & Automation Specialist
-
-Location: Karachi, Pakistan | Email: [mfahadahmed2020@gmail.com] | Phone: [03363808196]
-                              Email: [mfahadahmed2012@gmail.com]
-                              
-LinkedIn: [https://www.linkedin.com/in/m-fahad-ahmed-111b3b203/] | GitHub: [https://github.com/mfahadahmed2020/mfahadahmed2020/edit/main/README.md]
-PROFESSIONAL SUMMARY
-
-Driven and innovative AI Engineer specializing in Agentic AI, Prompt & Context Engineering, and multi-agent system design. Hands-on experience gained through intensive programs like the Agent Factory Crash Course and active participation in competitive AI Hackathons. Expertise in building production-ready AI applications using the OpenAI Agents SDK, Model Context Protocol (MCP), FastAPI, Docker, and modern TypeScript/Python stacks. Proven track record of leveraging advanced context architectures to engineer high-precision AI solutions.
-TECHNICAL SKILLS
-
-    AI & Agentic Systems: Agentic AI Frameworks, OpenAI Agents SDK, Model Context Protocol (MCP), Autonomous Multi-Agent Orchestration, Agent Architecture Design.
-
-    Prompt & Context Engineering: Context Optimization, System Prompt Design, Few-Shot / Chain-of-Thought Prompting, RAG Systems, Memory & Context Window Management.
-
-    Backend & DevOps: Python (FastAPI, Streamlit), Modern TypeScript, JavaScript, Docker Containerization, Microservices, Git/GitHub.
-
-    Core Web & Data: HTML5, CSS3, Object-Oriented Programming (OOP), RESTful APIs, PostgREST / Database Management.
-
-AI & AUTOMATION PROJECTS / HACKATHONS
-
-    Hackathon Projects (Hackathon 1 & 2)
-
-        Developed and deployed AI-driven applications under tight time constraints, integrating frontend systems with complex backend agentic logic.
-
-        Applied Prompt & Context Engineering techniques to minimize latency and ensure structured, reliable outputs from Large Language Models (LLMs).
-
-        Containerized services using Docker and established efficient multi-agent workflows.
-
-    Multi-Agent AI Systems & MCP Implementations
-
-        Built custom Agentic AI workflows utilizing the OpenAI Agents SDK and MCP servers for dynamic context retrieval and tool execution.
-
-        Designed interactive dashboards with Streamlit and high-performance APIs via FastAPI.
-
-EDUCATION & SPECIALIZED TRAINING
-
-    Agent Factory Crash Course
-
-        Specialization in building, testing, and deploying autonomous AI agents and multi-agent architectures.
-
-    Governor Sindh Initiative for GenAI, Web3 & Metaverse (GIAIC)
-
-        Focus: Agentic AI, Prompt Engineering, OpenAI Agents SDK, MCP Servers, TypeScript, Python, FastAPI, Docker.
-
-    Secondary School Certificate (SSC)
-
-        Institution: Shadman Academy, Karachi
-
-        SSC - Part I (Class IX): 1997 – 1998
-
-        SSC - Part II (Class X): 1998 – 1999
-
-            Higher Secondary Certificate (HSC)
-
-        Institution: Professional College of Commerce & Economics (PCCE), Karachi
-
-        HSC - Part I: 1999 – 2000
-
-        HSC - Part II: 2000 – 2001
-
-    Certificate of Achievement in Information Technology (Matrox Institute of Information Technology)
-
-        Issued: November 2002
-
-        Modules: MS Office, InPage, Computer Hardware.
-
-    Microsoft Unlimited Potential Curriculum Certificate (CTLC / Mir Khalil-ur-Rahman Foundation)
-
-        Issued: January 2009
-
-        Modules: Computer Fundamentals, Web Design, Database Fundamentals, Digital Media.
-
-CORE COMPETENCIES
-
-    Multi-Agent Systems & Tool Calling
-
-    Advanced Prompt Engineering & Context Management
-
-    AI Hackathon & Rapid Prototyping
-
-    Clean Code & Software Design Patterns
-
-    Technical Problem Solving & Architecture Design
-
-
-
-
-
-
-
-
-📫 Let's Connect!
-
-LinkedIn                                FaceBook                                Xx                                Gmail                            YouTube
-
-<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/afc249fd-10a8-4807-9669-6aefaa5e72cf" />https://www.linkedin.com/in/m-ahmed-111b3b203/
-
-
-https://www.facebook.com/mfahad.ahmed.5?mibextid=ZbWKwL
-
-
-<img width="35" height="20" alt="image" src="https://github.com/user-attachments/assets/bdeb3a3c-0b9e-4418-aaee-88539ba81692" />https://x.com/MFahadAhmed4?t=6ek1JzhBpRtJTaBsGaoi4g&s=08
-
-
-<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/322de864-dcf2-42cd-a1b5-c435b70d1623" />https://www.mfahadahmed2020@gmail.com
-
-
-
-https://youtube.com/@Walmartfashionaccessories?si=lLb7DFzSAQmEkPck
+---
